@@ -1,35 +1,47 @@
 <h1 align="center">Hi 👋, I'm Siddhesh</h1>
-<h3 align="center">A student </h3>
+<h3 align="center">A Student | </h3>
 
 ---
 
-### Languages & Tools: 
+### Languages & Tools I Work With
 
 <p align="left">
 
-  <!-- C -->
+<!-- C -->
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
+</a>
 
-  <!-- C++ -->
+<!-- C++ -->
+<a href="https://isocpp.org/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
+</a>
 
-  <!-- Python -->
+<!-- Python -->
+<a href="https://www.python.org/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+</a>
 
-  <!-- PostgreSQL -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+<!-- PostgreSQL -->
+<a href="https://www.postgresql.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
+</a>
 
-  <!-- MySQL -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+<!-- MySQL -->
+<a href="https://www.mysql.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+</a>
 
-  <!-- Git -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+<!-- Git -->
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+</a>
 
-  </p>
+</p> 
 
 ---
 
-### Contact
+### 📫 Contact  
 - Email: 
 
 ---

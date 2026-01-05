@@ -47,12 +47,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
 </a>
 
-
 <!-- GODOT -->
-<a href=""
-target="_blank">
-  <img 
-src="https://share.google/LuTuoCuqu7bSjPQHf"
+<a href="https://docs.godotengine.org/en/stable/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="40" />
+</a>
+
 
 <!-- Git -->
 <a href="https://git-scm.com/" target="_blank">

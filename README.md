@@ -14,7 +14,7 @@
 
 <!-- CSS -->
 <a href = "https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-  <img src= "[[https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/512px-CSS3_logo.svg.png?20210705212817](https://images.seeklogo.com/logo-png/18/1/css3-logo-png_seeklogo-186678.png)](https://banner2.cleanpng.com/20180816/rcw/b0f2f0065cdc7d623eb330a9288a8a66.webp)" width="40"/>
+  <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/512px-CSS3_logo.svg.png?20210705212817](https://images.seeklogo.com/logo-png/18/1/css3-logo-png_seeklogo-186678.png" width="40"/>
 </a>
 
 <!-- JavaScript -->
